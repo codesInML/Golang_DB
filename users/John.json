@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 23,
+	"Contact": "2233324424",
+	"Company": "TOFA",
+	"Address": {
+		"City": "Lekki",
+		"State": "Laogs",
+		"Country": "Nigeria",
+		"Pincode": 12345
+	}
+}
